@@ -85,6 +85,7 @@ For further details, refer to the Recommendation document.
 
 ## **Tools and Technologies**
 
+**EXCEL** For data cleaning
 **SQL:** For data querying and analysis.
 
 
@@ -93,3 +94,9 @@ For further details, refer to the Recommendation document.
 1. Clone this repository.
 2. Import the datasets into mySQL.
 3. Execute the provided SQL scripts to answer business questions.
+
+## **contact me**
+Feel free for any feedback and suggestions 
+
+- [YASHRAJ PANDYA](https://www.linkedin.com/in/yashraj-pandya-4bb796204/)
+- Email: pandyayash1611@gmail.com
